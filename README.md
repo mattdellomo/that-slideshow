@@ -1,4 +1,4 @@
-# coding is fun!!!
+# coding is fun Uber!!!
 # that-slideshow
 partial code to a javascript/JQuery slideshow
 
