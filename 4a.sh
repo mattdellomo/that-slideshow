@@ -12,9 +12,9 @@ echo ""
 #git add .
 git add .
 echo ""
-echo 'git commit -m "fun commit for README.md"'
+echo 'git commit -m "no comment"'
 echo ""
-git commit -m "fun commit for ... all"
+git commit -m "no comment"
 echo ""
 echo "git push origin master"
 echo ""
