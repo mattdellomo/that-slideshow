@@ -3,11 +3,11 @@
 echo ""
 echo $0
 echo ""
-echo "git stash"
-echo ""
-git stash
-echo ""
-echo "git add README.md"
+#echo "git stash"
+#echo ""
+#git stash
+#echo ""
+echo "git add ."
 echo ""
 #git add .
 git add .
